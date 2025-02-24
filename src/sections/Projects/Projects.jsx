@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="https://replit.com/@NikitaGhorpade/Shoes#index.html"
+          link="https://dancing-marzipan-60f1a3.netlify.app/"
             h3="Shoes "
           p="Ecommerce Interface"
         />
