@@ -24,7 +24,7 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://replit.com/@NikitaGhorpade/Video#1.png"
+          link="https://github.com/niki123ghorpade/VideoWeb.git"
           h3="Video"
           p="Video website"
         />
